@@ -1,0 +1,35 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,-61,846,410,1.42656,232,12>
+  <Grid=10,10,0>
+  <DataSet=VCF_model.dat>
+  <DataDisplay=VCF_model.sch>
+  <OpenDisplay=1>
+  <Script=VCF_model.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Название>
+  <FrameText1=Чертил:>
+  <FrameText2=Дата:>
+  <FrameText3=Версия:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 120 210 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"Pr1.Vt" #0000ff 0 3 0 0 0>
+	<"Pr2.Vt" #ff0000 0 3 0 0 0>
+  </Rect>
+  <Rect 400 210 240 160 3 #c0c0c0 1 00 1 1 1 10000 1 0.211086 0.5 1.20745 1 -1 1 1 315 0 225 "" "" "">
+	<"Pr1.v" #0000ff 0 3 0 0 0>
+	  <Mkr 13.987/5 17 -259 3 0 0>
+	  <Mkr 245.255/5 188 -236 3 0 0>
+	  <Mkr 194.806/0.1 264 -135 3 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
