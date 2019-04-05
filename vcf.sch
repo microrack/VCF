@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L uRack:LM13700 U1
+L vcf:LM13700 U1
 U 1 1 5CA42289
 P 2850 2850
 F 0 "U1" H 2950 3000 50  0000 C CNN
@@ -25,7 +25,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/lm13700.pdf" H 2550 2875 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L uRack:LM13700 U1
+L vcf:LM13700 U1
 U 2 1 5CA4240B
 P 3650 2850
 F 0 "U1" H 3700 2700 50  0000 C CNN
@@ -36,7 +36,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/lm13700.pdf" H 3350 2875 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:LM13700 U1
+L vcf:LM13700 U1
 U 3 1 5CA424AA
 P 4900 2950
 F 0 "U1" H 5000 3100 50  0000 C CNN
@@ -47,7 +47,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/lm13700.pdf" H 4600 2975 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L uRack:LM13700 U1
+L vcf:LM13700 U1
 U 4 1 5CA42561
 P 5700 2950
 F 0 "U1" H 5800 2800 50  0000 C CNN
@@ -58,7 +58,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/lm13700.pdf" H 5400 2975 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:LM13700 U1
+L vcf:LM13700 U1
 U 5 1 5CA425D6
 P 8100 5000
 F 0 "U1" H 8058 5046 50  0000 L CNN
@@ -73,7 +73,7 @@ Wire Wire Line
 Wire Wire Line
 	5400 2950 5450 2950
 $Comp
-L uRack:LM13700 U2
+L vcf:LM13700 U2
 U 1 1 5CA42C53
 P 7650 3050
 F 0 "U2" H 7750 3200 50  0000 C CNN
@@ -84,7 +84,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/lm13700.pdf" H 7350 3075 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L uRack:LM13700 U2
+L vcf:LM13700 U2
 U 2 1 5CA42C94
 P 8450 3050
 F 0 "U2" H 8600 2950 50  0000 C CNN
@@ -95,7 +95,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/lm13700.pdf" H 8150 3075 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:LM13700 U2
+L vcf:LM13700 U2
 U 3 1 5CA42CDC
 P 4550 4550
 F 0 "U2" H 4700 4700 50  0000 C CNN
@@ -106,7 +106,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/lm13700.pdf" H 4250 4575 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L uRack:LM13700 U2
+L vcf:LM13700 U2
 U 4 1 5CA42D23
 P 3750 4550
 F 0 "U2" H 3850 4650 50  0000 C CNN
@@ -117,7 +117,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/lm13700.pdf" H 3450 4575 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L uRack:LM13700 U2
+L vcf:LM13700 U2
 U 5 1 5CA42DCA
 P 9100 5000
 F 0 "U2" H 9058 5046 50  0000 L CNN
@@ -128,7 +128,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/lm13700.pdf" H 8800 5025 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:C C2
+L vcf:C C2
 U 1 1 5CA4C524
 P 3400 3500
 F 0 "C2" H 3515 3546 50  0000 L CNN
@@ -139,7 +139,7 @@ F 3 "" H 3400 3500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:R R6
+L vcf:R R6
 U 1 1 5CA46419
 P 2250 2750
 F 0 "R6" V 2200 2550 50  0000 C CNN
@@ -150,7 +150,7 @@ F 3 "" H 2250 2750 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L uRack:R R13
+L vcf:R R13
 U 1 1 5CA464B7
 P 2450 3250
 F 0 "R13" H 2500 3350 50  0000 L CNN
@@ -161,7 +161,7 @@ F 3 "" H 2450 3250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:R R10
+L vcf:R R10
 U 1 1 5CA46522
 P 2250 2950
 F 0 "R10" V 2200 2750 50  0000 C CNN
@@ -172,7 +172,7 @@ F 3 "" H 2250 2950 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L uRack:R R2
+L vcf:R R2
 U 1 1 5CA46574
 P 2850 2350
 F 0 "R2" V 2800 2150 50  0000 C CNN
@@ -202,7 +202,7 @@ Wire Wire Line
 Wire Wire Line
 	2450 2350 2700 2350
 $Comp
-L uRack:R R8
+L vcf:R R8
 U 1 1 5CA46EFA
 P 4250 2850
 F 0 "R8" V 4150 2850 50  0000 C CNN
@@ -213,7 +213,7 @@ F 3 "" H 4250 2850 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L uRack:R R14
+L vcf:R R14
 U 1 1 5CA46F52
 P 4050 3500
 F 0 "R14" H 3900 3650 50  0000 L CNN
@@ -224,7 +224,7 @@ F 3 "" H 4050 3500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:R R16
+L vcf:R R16
 U 1 1 5CA46FAD
 P 4500 3500
 F 0 "R16" H 4350 3650 50  0000 L CNN
@@ -247,7 +247,7 @@ Connection ~ 4500 2850
 Wire Wire Line
 	4500 2850 4600 2850
 $Comp
-L uRack:R R15
+L vcf:R R15
 U 1 1 5CA4769D
 P 4300 3500
 F 0 "R15" H 4150 3650 50  0000 L CNN
@@ -260,7 +260,7 @@ $EndComp
 Wire Wire Line
 	4300 3050 4300 3350
 $Comp
-L uRack:R R3
+L vcf:R R3
 U 1 1 5CA47872
 P 4750 2350
 F 0 "R3" V 4650 2150 50  0000 C CNN
@@ -286,7 +286,7 @@ Wire Wire Line
 Wire Wire Line
 	6150 2950 6000 2950
 $Comp
-L uRack:R R18
+L vcf:R R18
 U 1 1 5CA47E04
 P 6950 3500
 F 0 "R18" H 6800 3650 50  0000 L CNN
@@ -297,7 +297,7 @@ F 3 "" H 6950 3500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:R R11
+L vcf:R R11
 U 1 1 5CA47E77
 P 6700 2950
 F 0 "R11" V 6600 2800 50  0000 C CNN
@@ -308,7 +308,7 @@ F 3 "" H 6700 2950 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L uRack:C C1
+L vcf:C C1
 U 1 1 5CA48E3B
 P 6350 2950
 F 0 "C1" V 6098 2950 50  0000 C CNN
@@ -324,7 +324,7 @@ Connection ~ 6150 2950
 Wire Wire Line
 	8150 3050 8250 3050
 $Comp
-L uRack:R R4
+L vcf:R R4
 U 1 1 5CA4A0BC
 P 7250 2600
 F 0 "R4" H 7100 2750 50  0000 L CNN
@@ -335,7 +335,7 @@ F 3 "" H 7250 2600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:R R19
+L vcf:R R19
 U 1 1 5CA4A156
 P 7300 3500
 F 0 "R19" H 7150 3650 50  0000 L CNN
@@ -363,7 +363,7 @@ Wire Wire Line
 Wire Wire Line
 	7250 3050 7250 2750
 $Comp
-L uRack:R R5
+L vcf:R R5
 U 1 1 5CA4B5F9
 P 7950 2600
 F 0 "R5" H 7800 2750 50  0000 L CNN
@@ -374,7 +374,7 @@ F 3 "" H 7950 2600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:R R20
+L vcf:R R20
 U 1 1 5CA4B685
 P 8250 3500
 F 0 "R20" H 8100 3700 50  0000 L CNN
@@ -385,7 +385,7 @@ F 3 "" H 8250 3500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:R R7
+L vcf:R R7
 U 1 1 5CA4B700
 P 9200 2600
 F 0 "R7" V 9150 2400 50  0000 C CNN
@@ -396,7 +396,7 @@ F 3 "" H 9200 2600 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L uRack:R R9
+L vcf:R R9
 U 1 1 5CA4B79D
 P 9200 2900
 F 0 "R9" V 9150 2700 50  0000 C CNN
@@ -407,7 +407,7 @@ F 3 "" H 9200 2900 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L uRack:R R12
+L vcf:R R12
 U 1 1 5CA4B83E
 P 9200 3200
 F 0 "R12" V 9150 3000 50  0000 C CNN
@@ -427,7 +427,7 @@ Wire Wire Line
 	8250 3350 8250 3050
 Connection ~ 8250 3050
 $Comp
-L uRack:C C3
+L vcf:C C3
 U 1 1 5CA500B3
 P 5450 3500
 F 0 "C3" H 5565 3546 50  0000 L CNN
@@ -454,7 +454,7 @@ Wire Wire Line
 Wire Wire Line
 	5200 2450 5200 2800
 $Comp
-L uRack:R R1
+L vcf:R R1
 U 1 1 5CA521B1
 P 4050 1850
 F 0 "R1" V 3950 1650 50  0000 C CNN
@@ -480,7 +480,7 @@ Wire Wire Line
 Wire Wire Line
 	3950 4550 4000 4550
 $Comp
-L uRack:R R25
+L vcf:R R25
 U 1 1 5CA57C67
 P 3400 4850
 F 0 "R25" H 3200 4950 50  0000 L CNN
@@ -491,7 +491,7 @@ F 3 "" H 3400 4850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:R R26
+L vcf:R R26
 U 1 1 5CA57D12
 P 4000 4850
 F 0 "R26" H 3800 4950 50  0000 L CNN
@@ -502,7 +502,7 @@ F 3 "" H 4000 4850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:R R22
+L vcf:R R22
 U 1 1 5CA57DB0
 P 5100 4200
 F 0 "R22" H 4850 4300 50  0000 L CNN
@@ -513,7 +513,7 @@ F 3 "" H 5100 4200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:R R24
+L vcf:R R24
 U 1 1 5CA57E55
 P 5100 4650
 F 0 "R24" H 5200 4750 50  0000 L CNN
@@ -537,7 +537,7 @@ Wire Wire Line
 Wire Wire Line
 	6150 4000 6150 2950
 $Comp
-L uRack:R R17
+L vcf:R R17
 U 1 1 5CA5BAB5
 P 6000 3500
 F 0 "R17" H 5850 3650 50  0000 L CNN
@@ -551,7 +551,7 @@ Wire Wire Line
 	6000 3350 6000 2950
 Connection ~ 6000 2950
 $Comp
-L uRack:GND #PWR06
+L vcf:GND #PWR06
 U 1 1 5CA5E225
 P 2450 3550
 F 0 "#PWR06" H 2450 3300 50  0001 C CNN
@@ -562,7 +562,7 @@ F 3 "" H 2450 3550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:GND #PWR04
+L vcf:GND #PWR04
 U 1 1 5CA5E77B
 P 1900 2800
 F 0 "#PWR04" H 1900 2550 50  0001 C CNN
@@ -579,7 +579,7 @@ Wire Wire Line
 Wire Wire Line
 	2450 3400 2450 3550
 $Comp
-L uRack:-5V #PWR07
+L vcf:-5V #PWR07
 U 1 1 5CA613A2
 P 4050 3750
 F 0 "#PWR07" H 4050 3850 50  0001 C CNN
@@ -590,7 +590,7 @@ F 3 "" H 4050 3750 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L uRack:GND #PWR08
+L vcf:GND #PWR08
 U 1 1 5CA61484
 P 4300 3750
 F 0 "#PWR08" H 4300 3500 50  0001 C CNN
@@ -601,7 +601,7 @@ F 3 "" H 4300 3750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:GND #PWR09
+L vcf:GND #PWR09
 U 1 1 5CA61515
 P 4500 3750
 F 0 "#PWR09" H 4500 3500 50  0001 C CNN
@@ -612,7 +612,7 @@ F 3 "" H 4500 3750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:-5V #PWR010
+L vcf:-5V #PWR010
 U 1 1 5CA615AD
 P 6000 3750
 F 0 "#PWR010" H 6000 3850 50  0001 C CNN
@@ -623,7 +623,7 @@ F 3 "" H 6000 3750 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L uRack:GND #PWR011
+L vcf:GND #PWR011
 U 1 1 5CA623DB
 P 6950 3800
 F 0 "#PWR011" H 6950 3550 50  0001 C CNN
@@ -634,7 +634,7 @@ F 3 "" H 6950 3800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:GND #PWR012
+L vcf:GND #PWR012
 U 1 1 5CA6246C
 P 7300 3800
 F 0 "#PWR012" H 7300 3550 50  0001 C CNN
@@ -645,7 +645,7 @@ F 3 "" H 7300 3800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:GND #PWR013
+L vcf:GND #PWR013
 U 1 1 5CA624FD
 P 8250 3800
 F 0 "#PWR013" H 8250 3550 50  0001 C CNN
@@ -656,7 +656,7 @@ F 3 "" H 8250 3800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:+5V #PWR03
+L vcf:+5V #PWR03
 U 1 1 5CA62595
 P 7250 2350
 F 0 "#PWR03" H 7250 2200 50  0001 C CNN
@@ -667,7 +667,7 @@ F 3 "" H 7250 2350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:R R21
+L vcf:R R21
 U 1 1 5CA6262D
 P 8850 3500
 F 0 "R21" H 8700 3700 50  0000 L CNN
@@ -678,7 +678,7 @@ F 3 "" H 8850 3500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:-5V #PWR014
+L vcf:-5V #PWR014
 U 1 1 5CA62746
 P 8850 3800
 F 0 "#PWR014" H 8850 3900 50  0001 C CNN
@@ -717,7 +717,7 @@ Wire Wire Line
 	3400 4550 3400 4700
 Connection ~ 3400 4550
 $Comp
-L uRack:R R23
+L vcf:R R23
 U 1 1 5CA72BCB
 P 4000 4300
 F 0 "R23" V 3900 4050 50  0000 C CNN
@@ -732,7 +732,7 @@ Wire Wire Line
 Wire Wire Line
 	4250 4300 4250 4400
 $Comp
-L uRack:-5V #PWR020
+L vcf:-5V #PWR020
 U 1 1 5CA746F5
 P 3400 5100
 F 0 "#PWR020" H 3400 5200 50  0001 C CNN
@@ -743,7 +743,7 @@ F 3 "" H 3400 5100 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L uRack:GND #PWR021
+L vcf:GND #PWR021
 U 1 1 5CA747E1
 P 4000 5100
 F 0 "#PWR021" H 4000 4850 50  0001 C CNN
@@ -754,7 +754,7 @@ F 3 "" H 4000 5100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:GND #PWR018
+L vcf:GND #PWR018
 U 1 1 5CA74878
 P 5100 4950
 F 0 "#PWR018" H 5100 4700 50  0001 C CNN
@@ -771,7 +771,7 @@ Wire Wire Line
 Wire Wire Line
 	3400 5000 3400 5100
 $Comp
-L uRack:Conn_01x02_Male J4
+L vcf:Conn_01x02_Male J4
 U 1 1 5CA79D07
 P 1500 3200
 F 0 "J4" H 1606 3378 50  0000 C CNN
@@ -788,7 +788,7 @@ Wire Wire Line
 Wire Wire Line
 	2050 3200 1700 3200
 $Comp
-L uRack:GND #PWR05
+L vcf:GND #PWR05
 U 1 1 5CA7FEEE
 P 1850 3350
 F 0 "#PWR05" H 1850 3100 50  0001 C CNN
@@ -803,7 +803,7 @@ Wire Wire Line
 Wire Wire Line
 	1850 3300 1850 3350
 $Comp
-L uRack:Conn_01x02_Male J1
+L vcf:Conn_01x02_Male J1
 U 1 1 5CA8299F
 P 3550 1850
 F 0 "J1" H 3656 2028 50  0000 C CNN
@@ -814,7 +814,7 @@ F 3 "" H 3550 1850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:GND #PWR01
+L vcf:GND #PWR01
 U 1 1 5CA82A52
 P 3850 2050
 F 0 "#PWR01" H 3850 1800 50  0001 C CNN
@@ -831,7 +831,7 @@ Wire Wire Line
 Wire Wire Line
 	3850 1950 3850 2050
 $Comp
-L uRack:Conn_01x02_Male J5
+L vcf:Conn_01x02_Male J5
 U 1 1 5CA87E62
 P 5050 3800
 F 0 "J5" H 5156 3978 50  0000 C CNN
@@ -846,7 +846,7 @@ Wire Wire Line
 Wire Wire Line
 	5450 3800 5450 3650
 $Comp
-L uRack:GND #PWR015
+L vcf:GND #PWR015
 U 1 1 5CA8A527
 P 5450 3900
 F 0 "#PWR015" H 5450 3650 50  0001 C CNN
@@ -859,7 +859,7 @@ $EndComp
 Wire Wire Line
 	5250 3900 5450 3900
 $Comp
-L uRack:Conn_01x02_Male J2
+L vcf:Conn_01x02_Male J2
 U 1 1 5CA8D3C6
 P 8250 2150
 F 0 "J2" H 8223 2030 50  0000 R CNN
@@ -874,7 +874,7 @@ Wire Wire Line
 Wire Wire Line
 	7950 2150 8050 2150
 $Comp
-L uRack:GND #PWR02
+L vcf:GND #PWR02
 U 1 1 5CA8FC9F
 P 7750 2200
 F 0 "#PWR02" H 7750 1950 50  0001 C CNN
@@ -889,7 +889,7 @@ Wire Wire Line
 Wire Wire Line
 	7750 2050 7750 2200
 $Comp
-L uRack:Conn_01x03_Male J3
+L vcf:Conn_01x03_Male J3
 U 1 1 5CA92645
 P 9750 2900
 F 0 "J3" H 9723 2923 50  0000 R CNN
@@ -900,7 +900,7 @@ F 3 "" H 9750 2900 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L uRack:Conn_01x02_Male J6
+L vcf:Conn_01x02_Male J6
 U 1 1 5CA9DDE3
 P 2750 4300
 F 0 "J6" H 2856 4478 50  0000 C CNN
@@ -911,7 +911,7 @@ F 3 "" H 2750 4300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:GND #PWR016
+L vcf:GND #PWR016
 U 1 1 5CAA0BA4
 P 3000 4600
 F 0 "#PWR016" H 3000 4350 50  0001 C CNN
@@ -926,7 +926,7 @@ Wire Wire Line
 Wire Wire Line
 	3000 4400 3000 4600
 $Comp
-L uRack:GND #PWR017
+L vcf:GND #PWR017
 U 1 1 5CAA3D26
 P 4900 4950
 F 0 "#PWR017" H 4900 4700 50  0001 C CNN
@@ -945,7 +945,7 @@ Wire Wire Line
 Wire Wire Line
 	8000 5300 9000 5300
 $Comp
-L uRack:Conn_01x03_Male J7
+L vcf:Conn_01x03_Male J7
 U 1 1 5CAAD5DD
 P 9900 4950
 F 0 "J7" H 9873 4973 50  0000 R CNN
@@ -966,7 +966,7 @@ Wire Wire Line
 	9700 5300 9700 5050
 Connection ~ 9000 5300
 $Comp
-L uRack:GND #PWR019
+L vcf:GND #PWR019
 U 1 1 5CAB792C
 P 9600 4950
 F 0 "#PWR019" H 9600 4700 50  0001 C CNN
@@ -979,7 +979,7 @@ $EndComp
 Wire Wire Line
 	9700 4950 9650 4950
 $Comp
-L uRack:C C5
+L vcf:C C5
 U 1 1 5CABB447
 P 9000 4450
 F 0 "C5" H 9115 4496 50  0000 L CNN
@@ -990,7 +990,7 @@ F 3 "" H 9000 4450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:C C4
+L vcf:C C4
 U 1 1 5CABB500
 P 8000 4450
 F 0 "C4" H 8115 4496 50  0000 L CNN
@@ -1001,7 +1001,7 @@ F 3 "" H 8000 4450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:C C6
+L vcf:C C6
 U 1 1 5CABB5BE
 P 8000 5550
 F 0 "C6" H 8115 5596 50  0000 L CNN
@@ -1012,7 +1012,7 @@ F 3 "" H 8000 5550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:C C7
+L vcf:C C7
 U 1 1 5CABB685
 P 9000 5550
 F 0 "C7" H 9115 5596 50  0000 L CNN
@@ -1081,7 +1081,7 @@ Wire Wire Line
 Wire Wire Line
 	8850 3200 9050 3200
 $Comp
-L uRack:+5V #PWR0101
+L vcf:+5V #PWR0101
 U 1 1 5CA4D34D
 P 7750 4650
 F 0 "#PWR0101" H 7750 4500 50  0001 C CNN
@@ -1092,7 +1092,7 @@ F 3 "" H 7750 4650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uRack:-5V #PWR0102
+L vcf:-5V #PWR0102
 U 1 1 5CA4D40C
 P 7700 5350
 F 0 "#PWR0102" H 7700 5450 50  0001 C CNN
