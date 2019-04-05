@@ -1,0 +1,5 @@
+*.bak
+*.kicad_pcb-bak
+*.step
+*.fcstd1
+*.net
